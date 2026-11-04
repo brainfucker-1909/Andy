@@ -211,4 +211,4 @@ Andy is available as a full free version, offering all features and updates with
 Start using Andy today and unlock the full potential of Android on your Windows PC!
 
 ---
-**Last updated:** 2026-11-03 22:51:37 UTC
+**Last updated:** 2026-11-04 02:52:56 UTC
